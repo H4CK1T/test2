@@ -11,6 +11,12 @@
     color: white;
 } */
 
+.sosmed {
+    display: flex;
+    justify-content: center;
+    gap: 25px;
+}
+
 .knowledge {
     margin-top: 60px;
 }
