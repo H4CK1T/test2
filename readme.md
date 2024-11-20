@@ -9,18 +9,14 @@ Fade
 <div data-aos="fade-down-right"></div>
 <div data-aos="fade-down-left"></div>
 
-
 Flip
-
 
 <div data-aos="flip-left"></div>
 <div data-aos="flip-right"></div>
 <div data-aos="flip-up"></div>
 <div data-aos="flip-down"></div>
 
-
 Zoom
-
 
 <div data-aos="zoom-in"></div>
 <div data-aos="zoom-in-up"></div>
@@ -33,9 +29,7 @@ Zoom
 <div data-aos="zoom-out-right"></div>
 <div data-aos="zoom-out-left"></div>
 
-
 Different settings examples
-
 
 <div data-aos="fade-up"
      data-aos-duration="3000">
@@ -63,9 +57,7 @@ Different settings examples
      data-aos-duration="2000">
 </div>
 
-
 Anchor placement
-
 
 <div data-aos="fade-up"
      data-aos-anchor-placement="top-bottom">
@@ -86,18 +78,13 @@ Anchor placement
      data-aos-anchor-placement="bottom-center">
 </div>
 
-
 Install using Yarn, Npm, Bower
-
 
 yarn add aos
 
-
 npm install aos --save
 
-
 bower install aos --save
-
 
 CDN sources
 
