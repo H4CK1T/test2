@@ -17,6 +17,8 @@ Flip
 <div data-aos="flip-right"></div>
 <div data-aos="flip-up"></div>
 <div data-aos="flip-down"></div>
+
+
 Zoom
 
 
