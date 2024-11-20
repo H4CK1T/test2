@@ -105,13 +105,18 @@ CDN sources
 
 CSS
 
+
 <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
+
 
 JS
 
+
 <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
 
+
 Initialize AOS
+
 
 <script>
   AOS.init();
